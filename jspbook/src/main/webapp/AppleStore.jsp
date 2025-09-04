@@ -290,7 +290,7 @@
             />
           </div>
           <div class="body">
-            <h3 class="title">iPad</h3>
+            <h3 class="title">iPhone 16 Pro</h3>
             <p class="desc">Desert Titanium</p>
             <div class="price">₩ 0원</div>
           </div>
