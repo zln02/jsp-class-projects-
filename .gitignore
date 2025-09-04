@@ -1,0 +1,6 @@
+/apache-tomcat-11.0.4/
+/Servers/
+/build/
+/bin/
+.DS_Store
+*.log
