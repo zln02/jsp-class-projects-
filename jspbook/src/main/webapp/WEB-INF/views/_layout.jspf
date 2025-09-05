@@ -2,13 +2,16 @@
 <%
   String active = (String)request.getAttribute("active"); if(active==null) active="home";
 %>
-<header class="site-header">
-  <div class="container header-inner">
-    <a class="brand" href="<%=request.getContextPath()%>/home.jsp">NeoShop</a>
+<header class="header">
+  <div class="top-bar">FREE SHIPPING OVER ₩200,000 • ELEGANCE COLLECTION</div>
+  <div class="nav-container">
+    <div class="logo">ELEGANCE</div>
     <nav>
-      <a class="<%=active.equals("home")?"active":""%>" href="<%=request.getContextPath()%>/home.jsp">홈</a>
-      <a class="<%=active.equals("products")?"active":""%>" href="<%=request.getContextPath()%>/products.jsp">상품</a>
-      <a class="<%=active.equals("cart")?"active":""%>" href="<%=request.getContextPath()%>/cart.jsp">장바구니</a>
+      <ul class="nav-menu">
+        <li><a class="<%=active.equals("home")?"active":""%>" href="<%=request.getContextPath()%>/home.jsp">Home</a></li>
+        <li><a class="<%=active.equals("products")?"active":""%>" href="<%=request.getContextPath()%>/products.jsp">Collection</a></li>
+        <li><a class="<%=active.equals("cart")?"active":""%>" href="<%=request.getContextPath()%>/cart.jsp">Cart</a></li>
+      </ul>
     </nav>
   </div>
 </header>

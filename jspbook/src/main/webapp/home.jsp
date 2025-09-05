@@ -1,24 +1,23 @@
 ﻿<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%
-  request.setAttribute("pageTitle","NeoShop | 홈");
+  request.setAttribute("pageTitle","Elegance | Home");
   request.setAttribute("active","home");
 %>
-<!DOCTYPE html><html lang="ko"><head><%@ include file="WEB-INF/views/_head.jspf" %></head>
+<!DOCTYPE html>
+<html lang="ko">
+<head><%@ include file="WEB-INF/views/_head.jspf" %></head>
 <body>
-<%@ include file="WEB-INF/views/_layout.jspf" %>
-<main class="container">
-  <section class="hero shop-hero">
-    <div>
-      <h1>미니멀 & 모던 쇼핑몰</h1>
-      <p>지금 가장 인기있는 아이템을 만나보세요.</p>
-      <a class="btn" href="<%=request.getContextPath()%>/products.jsp">상품 보러가기</a>
-    </div>
-    <div class="hero-art"></div>
-  </section>
-  <section class="card">
-    <h2>베스트 상품</h2>
-    <div id="best-grid" class="grid-4"></div>
-  </section>
-</main>
-<footer class="site-footer"><div class="container"><small>© <script>document.write(new Date().getFullYear())</script> NeoShop</small></div></footer>
-</body></html>
+  <%@ include file="WEB-INF/views/_layout.jspf" %>
+  <main>
+    <section class="hero">
+      <h1>Modern Suit House</h1>
+      <p>아이보리·블랙·그레이 모노톤으로 완성하는 미니멀 쇼핑 경험</p>
+      <div class="btns">
+        <a class="btn-accent" href="<%=request.getContextPath()%>/products.jsp">Shop Now</a>
+        <a class="btn" href="<%=request.getContextPath()%>/about.jsp">Our Story</a>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">© <script>document.write(new Date().getFullYear())</script> ELEGANCE</footer>
+</body>
+</html>
