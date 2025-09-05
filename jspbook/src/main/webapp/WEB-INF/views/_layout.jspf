@@ -1,0 +1,15 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%
+  String active = (String) request.getAttribute("active");
+  if (active == null) active = "home";
+%>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="<%=request.getContextPath()%>/home.jsp">동신대학교 컴퓨터공학과</a>
+    <nav>
+      <a class="<%= active.equals("home") ? "active" : "" %>" href="<%=request.getContextPath()%>/home.jsp">홈</a>
+      <a class="<%= active.equals("notices") ? "active" : "" %>" href="<%=request.getContextPath()%>/notices.jsp">공지사항</a>
+      <a class="<%= active.equals("contact") ? "active" : "" %>" href="<%=request.getContextPath()%>/contact.jsp">문의</a>
+    </nav>
+  </div>
+</header>

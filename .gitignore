@@ -1,8 +1,14 @@
-/apache-tomcat-11.0.4/
-/Servers/
-/build/
-/bin/
-/target/
-.DS_Store
+﻿# IDE
+.vscode/
+.settings/
+.classpath
+.project
+
+# Build / Servers / Caches
+target/
 *.log
-/.metadata/
+.DS_Store
+__MACOSX/
+.apt_generated/
+.rsp/
+.redhat/
