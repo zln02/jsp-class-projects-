@@ -12,3 +12,6 @@ __MACOSX/
 .apt_generated/
 .rsp/
 .redhat/
+
+# OS
+Thumbs.db
