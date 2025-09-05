@@ -222,28 +222,28 @@
         <article class="card">
           <div class="thumb">
             <img
-              src="https://www.apple.com/in/iphone-16-pro/images/meta/iphone-16-pro_overview__f7v1xxo7p2my_og.png"
-              alt="iPhone 16 Pro Natural Titanium"
+              src="https://www.ddaily.co.kr/photos/2024/10/31/2024103110434311672_l.jpg"
+              alt="Mac Natural Titanium"
             />
             <span class="badge">신제품</span>
           </div>
           <div class="body">
-            <h3 class="title">iPhone 16 Pro</h3>
+            <h3 class="title">Macbook pro</h3>
             <p class="desc">Natural Titanium</p>
-            <div class="price">₩ 0원</div>
+            <div class="price">₩ 0</div>
           </div>
           <div class="actions">
             <form action="Checkout.jsp" method="post">
               <input
                 type="hidden"
                 name="item"
-                value="iPhone 16 Pro · Natural Titanium"
+                value="Macbook pro · Natural Titanium"
               />
-              <input type="hidden" name="price" value="1490000" />
+              <input type="hidden" name="price" value="0" />
               <input
                 type="hidden"
                 name="img"
-                value="https://www.apple.com/in/iphone-16-pro/images/meta/iphone-16-pro_overview__f7v1xxo7p2my_og.png"
+                value="https://www.ddaily.co.kr/photos/2024/10/31/2024103110434311672_l.jpg"
               />
               <button class="btn" type="submit">구매하기</button>
             </form>
@@ -254,27 +254,27 @@
         <article class="card">
           <div class="thumb">
             <img
-              src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-black-titanium?wid=1024&hei=1024&fmt=jpeg&qlt=90&.v=169"
-              alt="iPhone 16 Pro Black Titanium"
+              src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=cXN0QTVTNDBtbGIzcy91THBPRThnNE5sSFgwakNWNmlhZ2d5NGpHdllWY09WV3R2ZHdZMXRzTjZIcWdMTlg4eUJQYkhSV3V1dC9oa0s5K3lqMGtUaFYrNkhvSzBtcy9ubWtTZUpaU0lsQ2R1Yy9kL1dQa3EzdWh4Nzk1ZnZTYWY&traceId=1"
+              alt="iPad pro Black Titanium"
             />
           </div>
           <div class="body">
-            <h3 class="title">iPhone 16 Pro</h3>
+            <h3 class="title">iPad Pro</h3>
             <p class="desc">Black Titanium</p>
-            <div class="price">₩ 0원</div>
+            <div class="price">₩ 0</div>
           </div>
           <div class="actions">
             <form action="Checkout.jsp" method="post">
               <input
                 type="hidden"
                 name="item"
-                value="iPhone 16 Pro · Black Titanium"
+                value="iPad Pro · Black Titanium"
               />
-              <input type="hidden" name="price" value="1490000" />
+              <input type="hidden" name="price" value="0" />
               <input
                 type="hidden"
                 name="img"
-                value="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-black-titanium?wid=1024&hei=1024&fmt=jpeg&qlt=90&.v=169"
+                value="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/ipad-pro-model-select-gallery-1-202405?wid=5120&hei=2880&fmt=webp&qlt=90&.v=cXN0QTVTNDBtbGIzcy91THBPRThnNE5sSFgwakNWNmlhZ2d5NGpHdllWY09WV3R2ZHdZMXRzTjZIcWdMTlg4eUJQYkhSV3V1dC9oa0s5K3lqMGtUaFYrNkhvSzBtcy9ubWtTZUpaU0lsQ2R1Yy9kL1dQa3EzdWh4Nzk1ZnZTYWY&traceId=1"
               />
               <button class="btn" type="submit">구매하기</button>
             </form>
@@ -285,27 +285,27 @@
         <article class="card">
           <div class="thumb">
             <img
-              src="https://images.bestbuy.com/images/products/6443/6443361_sd.jpg"
-              alt="iPhone 16 Pro Desert Titanium"
+              src="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-card-40-ultra2-202409_GEO_KR?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=Yldjd2t3Ymo3YVZBc2hwblI4VFkzcFFVSXZmMGNDb2pYSUxNcWF2eFMwL29lL1UxUTNHNTNaRFErNyt6WDNyM1hHUkcvNmtpMGxDZTE1ejhaNlcyMHk1WEdlYWxPb2YwUU5QWmxFZ2NUUG4xbm5LY1BhSmtyWDVyYncwZlRIL20"
+              alt="Apple Watch Desert Titanium"
             />
           </div>
           <div class="body">
-            <h3 class="title">iPhone 16 Pro</h3>
+            <h3 class="title">Apple Watch</h3>
             <p class="desc">Desert Titanium</p>
-            <div class="price">₩ 0원</div>
+            <div class="price">₩ 0</div>
           </div>
           <div class="actions">
             <form action="Checkout.jsp" method="post">
               <input
                 type="hidden"
                 name="item"
-                value="iPhone 16 Pro · Desert Titanium"
+                value="Apple Watch · Desert Titanium"
               />
-              <input type="hidden" name="price" value="1490000" />
+              <input type="hidden" name="price" value="0" />
               <input
                 type="hidden"
                 name="img"
-                value="https://images.bestbuy.com/images/products/6443/6443361_sd.jpg"
+                value="https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/watch-card-40-ultra2-202409_GEO_KR?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=Yldjd2t3Ymo3YVZBc2hwblI4VFkzcFFVSXZmMGNDb2pYSUxNcWF2eFMwL29lL1UxUTNHNTNaRFErNyt6WDNyM1hHUkcvNmtpMGxDZTE1ejhaNlcyMHk1WEdlYWxPb2YwUU5QWmxFZ2NUUG4xbm5LY1BhSmtyWDVyYncwZlRIL20"
               />
               <button class="btn" type="submit">구매하기</button>
             </form>
